@@ -1,0 +1,405 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Unity3D",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphics Pipelines - Updated: Jan 2021 - https://github.com/Unity-Technologies/Graphics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-07-08T13:54:33Z",
+                "owner": "Unity-Technologies",
+                "repo": "Graphics",
+                "stars": 2972
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unreal Engine",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Shaders",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Godot",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T23:58:46Z",
+                "owner": "godotengine",
+                "repo": "godot",
+                "stars": 115706
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "three.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mrdoob/three.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T14:25:08Z",
+                "owner": "mrdoob",
+                "repo": "three.js",
+                "stars": 114516
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Babylon.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T22:41:44Z",
+                "owner": "BabylonJS",
+                "repo": "Babylon.js",
+                "stars": 25930
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "filament",
+          "description": "by google",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/google/filament/tree/main/shaders/src",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T06:17:08Z",
+                "owner": "google",
+                "repo": "filament",
+                "stars": 20352
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "playcanvas",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T13:46:53Z",
+                "owner": "playcanvas",
+                "repo": "engine",
+                "stars": 16486
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Blend4Web",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/TriumphLLC/Blend4Web/tree/master/shaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2022-12-20T17:56:11Z",
+                "owner": "TriumphLLC",
+                "repo": "Blend4Web",
+                "stars": 814
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GDQuest godot shaders",
+          "description": "(Feb 2021) https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDShader",
+            "last_commit": "2026-05-16T07:48:40Z",
+            "owner": "gdquest-demos",
+            "repo": "godot-shaders",
+            "stars": 4077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssdo_webgl",
+          "description": "https://github.com/quentinplessis/ssdo_webgl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-06-28T08:43:09Z",
+            "owner": "quentinplessis",
+            "repo": "ssdo_webgl",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "inviwo",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/inviwo/inviwo/tree/master/modules",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T04:13:15Z",
+                "owner": "inviwo",
+                "repo": "inviwo",
+                "stars": 523
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ray tracing renderer",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/hoverinc/ray-tracing-renderer/tree/master/src/renderer/glsl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2022-06-25T08:29:25Z",
+                "owner": "hoverinc",
+                "repo": "ray-tracing-renderer",
+                "stars": 657
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "StochasticScreenSpaceReflection",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/Xerxes1138/StochasticScreenSpaceReflection/tree/master/Assets/PostProcessing/Resources/Shaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2023-01-17T21:06:48Z",
+                "owner": "Xerxes1138",
+                "repo": "StochasticScreenSpaceReflection",
+                "stars": 319
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "wisdom shaders",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/bobcao3/Wisdom-Shaders/tree/master/shaders",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-11T10:08:43Z",
+                "owner": "bobcao3",
+                "repo": "Wisdom-Shaders",
+                "stars": 193
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Others:"
+    },
+    {
+      "description": "Sources at the top of the files.",
+      "items": [],
+      "title": "Ad hoc scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-creative-coding: https://github.com/terkelg/awesome-creative-coding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T15:01:30Z",
+            "owner": "terkelg",
+            "repo": "awesome-creative-coding",
+            "stars": 15193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Shaders book: https://github.com/candycat1992/Unity_Shaders_Book/tree/master/Assets/Shaders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2023-02-23T08:30:23Z",
+            "owner": "candycat1992",
+            "repo": "Unity_Shaders_Book",
+            "stars": 6096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity shaders: https://github.com/QianMo/Awesome-Unity-Shader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2021-10-14T15:26:08Z",
+            "owner": "QianMo",
+            "repo": "Awesome-Unity-Shader",
+            "stars": 4328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity3D-CG-programming: https://github.com/przemyslawzaworski/Unity3D-CG-programming",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T19:31:25Z",
+            "owner": "przemyslawzaworski",
+            "repo": "Unity3D-CG-programming",
+            "stars": 1966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package of pixel shaders intended for old school emulators: https://github.com/libretro/common-shaders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-11T16:11:08Z",
+            "owner": "libretro",
+            "repo": "common-shaders",
+            "stars": 1160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curated list of computer graphics tutorials and resources: https://github.com/ericjang/awesome-graphics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-29T22:27:34Z",
+            "owner": "ericjang",
+            "repo": "awesome-graphics",
+            "stars": 1116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blender materials: https://github.com/sambler/osl-shaders",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-24T17:29:19Z",
+            "owner": "sambler",
+            "repo": "osl-shaders",
+            "stars": 385
+          }
+        }
+      ],
+      "title": "Other Shader collections and related"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:33:03.334Z",
+    "original_repository": "repalash/Open-Shaders",
+    "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
+    "enhanced_repository": "enhansome/enhansome-Open-Shaders",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open shader repository with stars"
+  }
+}
