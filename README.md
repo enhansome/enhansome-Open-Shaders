@@ -12,23 +12,23 @@ Aim is to have a common index of shader snippets and algorithms for educational 
   * Updated: Jan 2021
   * <https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Shaders>
 * [Godot](Engines/godot)
-  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 115,867 | 🐛 18,734 | 🌐 C++ | 📅 2026-08-19
+  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 115,866 | 🐛 18,740 | 🌐 C++ | 📅 2026-08-19
   * Updated: Jan 2021
 * [G3D](Engines/G3D)
   * g3d, updated: 2015
   * Deep G-buffer, updated: 2014
   * <https://sourceforge.net/p/g3d/code/HEAD/tree/>
 * [three.js](Engines/threejs)
-  * <https://github.com/mrdoob/three.js> ⭐ 114,608 | 🐛 371 | 🌐 JavaScript | 📅 2026-08-19
+  * <https://github.com/mrdoob/three.js> ⭐ 114,612 | 🐛 371 | 🌐 JavaScript | 📅 2026-08-19
   * Updated: Jan 2021
 * [Babylon.js](Engines/babylonjs)
-  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 25,946 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14
+  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 25,947 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-14
   * Updated: Feb 2021
 * [filament](Engines/babylonjs) by google
   * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,362 | 🐛 212 | 🌐 C++ | 📅 2026-08-19
   * Updated: Feb 2021
 * [playcanvas](Engines/playcanvas)
-  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 16,524 | 🐛 534 | 🌐 JavaScript | 📅 2026-08-19
+  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 16,525 | 🐛 533 | 🌐 JavaScript | 📅 2026-08-19
   * Updated: May 2021
 * [Blend4Web](Engines/Blend4Web)
   * <https://github.com/TriumphLLC/Blend4Web/tree/master/shaders> ⭐ 813 | 🐛 9 | 🌐 HTML | 📅 2022-12-20
@@ -36,7 +36,7 @@ Aim is to have a common index of shader snippets and algorithms for educational 
 
 ### Others:
 
-* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,080 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16
+* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,081 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16
 * [ssdo\_webgl](Others/ssdo_webgl): <https://github.com/quentinplessis/ssdo_webgl> ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2013-06-28
 * [inviwo](Others/inviwo):
   * <https://github.com/inviwo/inviwo/tree/master/modules> ⭐ 523 | 🐛 63 | 🌐 C++ | 📅 2026-08-19

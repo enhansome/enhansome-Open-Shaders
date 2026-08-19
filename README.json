@@ -42,7 +42,7 @@
                 "last_commit": "2026-08-19T07:22:57Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 115867
+                "stars": 115866
               }
             }
           ]
@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-19T11:27:02Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114608
+                "stars": 114612
               }
             }
           ]
@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-14T18:05:53Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25946
+                "stars": 25947
               }
             }
           ]
@@ -127,10 +127,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T10:44:50Z",
+                "last_commit": "2026-08-19T12:49:56Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16524
+                "stars": 16525
               }
             }
           ]
@@ -175,7 +175,7 @@
             "last_commit": "2026-05-16T07:48:40Z",
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
-            "stars": 4080
+            "stars": 4081
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:24.421Z",
+    "last_updated": "2026-08-19T14:09:01.688Z",
     "original_repository": "repalash/Open-Shaders",
     "original_repository_id": 335737946,
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
