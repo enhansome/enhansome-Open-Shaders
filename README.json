@@ -20,7 +20,7 @@
                 "last_commit": "2026-07-08T13:54:33Z",
                 "owner": "Unity-Technologies",
                 "repo": "Graphics",
-                "stars": 2977
+                "stars": 2978
               }
             }
           ]
@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:36:24Z",
+                "last_commit": "2026-08-21T06:14:09Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 115915
+                "stars": 115959
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T00:57:04Z",
+                "last_commit": "2026-08-21T14:02:59Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114631
+                "stars": 114652
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T07:42:27Z",
+                "last_commit": "2026-08-21T05:08:44Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25954
+                "stars": 25961
               }
             }
           ]
@@ -105,10 +105,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-20T07:34:03Z",
+                "last_commit": "2026-08-21T06:24:24Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20374
+                "stars": 20381
               }
             }
           ]
@@ -127,10 +127,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T13:07:42Z",
+                "last_commit": "2026-08-21T10:45:54Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16528
+                "stars": 16533
               }
             }
           ]
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 108262622,
                 "language": "C++",
-                "last_commit": "2026-08-20T13:47:38Z",
+                "last_commit": "2026-08-21T13:43:20Z",
                 "owner": "inviwo",
                 "repo": "inviwo",
                 "stars": 524
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-11T10:08:43Z",
                 "owner": "bobcao3",
                 "repo": "Wisdom-Shaders",
-                "stars": 194
+                "stars": 195
               }
             }
           ]
@@ -299,7 +299,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15220
+            "stars": 15223
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2021-10-14T15:26:08Z",
             "owner": "QianMo",
             "repo": "Awesome-Unity-Shader",
-            "stars": 4329
+            "stars": 4330
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-08-06T19:31:25Z",
             "owner": "przemyslawzaworski",
             "repo": "Unity3D-CG-programming",
-            "stars": 1970
+            "stars": 1971
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-04-11T16:11:08Z",
             "owner": "libretro",
             "repo": "common-shaders",
-            "stars": 1160
+            "stars": 1162
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2020-02-29T22:27:34Z",
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1117
+            "stars": 1116
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:10:21.735Z",
+    "last_updated": "2026-08-21T14:08:38.448Z",
     "original_repository": "repalash/Open-Shaders",
     "original_repository_id": 335737946,
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
