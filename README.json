@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-21T06:14:09Z",
+                "last_commit": "2026-08-21T21:08:08Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 115959
+                "stars": 115975
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T14:02:59Z",
+                "last_commit": "2026-08-22T13:52:17Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114652
+                "stars": 114682
               }
             }
           ]
@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-21T05:08:44Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25961
+                "stars": 25963
               }
             }
           ]
@@ -105,10 +105,10 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-21T06:24:24Z",
+                "last_commit": "2026-08-22T04:18:11Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20381
+                "stars": 20383
               }
             }
           ]
@@ -127,10 +127,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T10:45:54Z",
+                "last_commit": "2026-08-22T02:29:06Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16533
+                "stars": 16537
               }
             }
           ]
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 108262622,
                 "language": "C++",
-                "last_commit": "2026-08-21T13:43:20Z",
+                "last_commit": "2026-08-22T02:59:02Z",
                 "owner": "inviwo",
                 "repo": "inviwo",
-                "stars": 524
+                "stars": 525
               }
             }
           ]
@@ -299,7 +299,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15223
+            "stars": 15231
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2023-02-23T08:30:23Z",
             "owner": "candycat1992",
             "repo": "Unity_Shaders_Book",
-            "stars": 6096
+            "stars": 6098
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-08-06T19:31:25Z",
             "owner": "przemyslawzaworski",
             "repo": "Unity3D-CG-programming",
-            "stars": 1971
+            "stars": 1972
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:08:38.448Z",
+    "last_updated": "2026-08-22T13:54:28.738Z",
     "original_repository": "repalash/Open-Shaders",
     "original_repository_id": 335737946,
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
