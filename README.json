@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-24T14:22:37Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114746
+                "stars": 114748
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:36:47Z",
+                "last_commit": "2026-08-24T14:57:40Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25977
+                "stars": 25978
               }
             }
           ]
@@ -127,7 +127,7 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:33:25Z",
+                "last_commit": "2026-08-24T15:05:31Z",
                 "owner": "playcanvas",
                 "repo": "engine",
                 "stars": 16551
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:27.091Z",
+    "last_updated": "2026-08-24T15:07:12.959Z",
     "original_repository": "repalash/Open-Shaders",
     "original_repository_id": 335737946,
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",

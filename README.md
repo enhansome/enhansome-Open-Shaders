@@ -19,16 +19,16 @@ Aim is to have a common index of shader snippets and algorithms for educational 
   * Deep G-buffer, updated: 2014
   * <https://sourceforge.net/p/g3d/code/HEAD/tree/>
 * [three.js](Engines/threejs)
-  * <https://github.com/mrdoob/three.js> ⭐ 114,746 | 🐛 376 | 🌐 JavaScript | 📅 2026-08-24
+  * <https://github.com/mrdoob/three.js> ⭐ 114,748 | 🐛 376 | 🌐 JavaScript | 📅 2026-08-24
   * Updated: Jan 2021
 * [Babylon.js](Engines/babylonjs)
-  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 25,977 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24
+  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 25,978 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24
   * Updated: Feb 2021
 * [filament](Engines/babylonjs) by google
   * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,390 | 🐛 209 | 🌐 C++ | 📅 2026-08-23
   * Updated: Feb 2021
 * [playcanvas](Engines/playcanvas)
-  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 16,551 | 🐛 529 | 🌐 JavaScript | 📅 2026-08-24
+  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 16,551 | 🐛 528 | 🌐 JavaScript | 📅 2026-08-24
   * Updated: May 2021
 * [Blend4Web](Engines/Blend4Web)
   * <https://github.com/TriumphLLC/Blend4Web/tree/master/shaders> ⭐ 813 | 🐛 9 | 🌐 HTML | 📅 2022-12-20
