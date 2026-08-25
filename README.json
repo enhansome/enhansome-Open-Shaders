@@ -32,17 +32,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders",
+              "title": "godotengine/godot",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-21T21:08:08Z",
+                "last_commit": "2026-08-25T02:55:29Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116080
+                "stars": 116100
               }
             }
           ]
@@ -54,17 +54,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/mrdoob/three.js",
+              "title": "mrdoob/three.js",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:22:37Z",
+                "last_commit": "2026-08-25T02:07:23Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114748
+                "stars": 114766
               }
             }
           ]
@@ -76,17 +76,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders",
+              "title": "BabylonJS/Babylon.js",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:57:40Z",
+                "last_commit": "2026-08-25T00:16:02Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25978
+                "stars": 25981
               }
             }
           ]
@@ -98,17 +98,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/google/filament/tree/main/shaders/src",
+              "title": "google/filament",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-23T08:06:00Z",
+                "last_commit": "2026-08-25T01:20:58Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20390
+                "stars": 20393
               }
             }
           ]
@@ -120,17 +120,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks",
+              "title": "playcanvas/engine",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:05:31Z",
+                "last_commit": "2026-08-25T02:31:20Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16551
+                "stars": 16554
               }
             }
           ]
@@ -142,7 +142,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/TriumphLLC/Blend4Web/tree/master/shaders",
+              "title": "TriumphLLC/Blend4Web",
               "description": null,
               "children": [],
               "repo_info": {
@@ -175,7 +175,7 @@
             "last_commit": "2026-05-16T07:48:40Z",
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
-            "stars": 4084
+            "stars": 4085
           }
         },
         {
@@ -200,14 +200,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/inviwo/inviwo/tree/master/modules",
+              "title": "inviwo/inviwo",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 108262622,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:16:49Z",
+                "last_commit": "2026-08-25T03:04:13Z",
                 "owner": "inviwo",
                 "repo": "inviwo",
                 "stars": 526
@@ -222,7 +222,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/hoverinc/ray-tracing-renderer/tree/master/src/renderer/glsl",
+              "title": "hoverinc/ray-tracing-renderer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -244,7 +244,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/Xerxes1138/StochasticScreenSpaceReflection/tree/master/Assets/PostProcessing/Resources/Shaders",
+              "title": "Xerxes1138/StochasticScreenSpaceReflection",
               "description": null,
               "children": [],
               "repo_info": {
@@ -266,7 +266,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/bobcao3/Wisdom-Shaders/tree/master/shaders",
+              "title": "bobcao3/Wisdom-Shaders",
               "description": null,
               "children": [],
               "repo_info": {
@@ -299,7 +299,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15240
+            "stars": 15241
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2021-10-14T15:26:08Z",
             "owner": "QianMo",
             "repo": "Awesome-Unity-Shader",
-            "stars": 4330
+            "stars": 4332
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:12.959Z",
+    "last_updated": "2026-08-25T06:28:38.377Z",
     "original_repository": "repalash/Open-Shaders",
     "original_repository_id": 335737946,
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
