@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-27T01:39:48Z",
+                "last_commit": "2026-08-27T17:33:08Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116217
+                "stars": 116244
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T10:09:32Z",
+                "last_commit": "2026-08-27T17:07:02Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114846
+                "stars": 114854
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:34:54Z",
+                "last_commit": "2026-08-27T17:52:10Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25987
+                "stars": 25991
               }
             }
           ]
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-26T22:33:08Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20405
+                "stars": 20409
               }
             }
           ]
@@ -127,10 +127,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:34:54Z",
+                "last_commit": "2026-08-27T15:05:48Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16570
+                "stars": 16572
               }
             }
           ]
@@ -175,7 +175,7 @@
             "last_commit": "2026-05-16T07:48:40Z",
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
-            "stars": 4088
+            "stars": 4089
           }
         },
         {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 108262622,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:31:27Z",
+                "last_commit": "2026-08-27T19:27:35Z",
                 "owner": "inviwo",
                 "repo": "inviwo",
                 "stars": 526
@@ -299,7 +299,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15241
+            "stars": 15245
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:13.070Z",
+    "last_updated": "2026-08-27T23:02:24.583Z",
     "original_repository_info": {
       "archived": false,
       "id": 335737946,
