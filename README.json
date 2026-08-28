@@ -21,7 +21,8 @@
                 "owner": "Unity-Technologies",
                 "repo": "Graphics",
                 "stars": 2983
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -39,11 +40,12 @@
                 "archived": false,
                 "id": 15634981,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:33:08Z",
+                "last_commit": "2026-08-28T22:21:06Z",
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116244
-              }
+                "stars": 116301
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -61,11 +63,12 @@
                 "archived": false,
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T17:07:02Z",
+                "last_commit": "2026-08-28T23:10:10Z",
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114854
-              }
+                "stars": 114897
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -86,8 +89,9 @@
                 "last_commit": "2026-08-27T17:52:10Z",
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25991
-              }
+                "stars": 25995
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -105,11 +109,12 @@
                 "archived": false,
                 "id": 143455116,
                 "language": "C++",
-                "last_commit": "2026-08-26T22:33:08Z",
+                "last_commit": "2026-08-28T21:58:34Z",
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20409
-              }
+                "stars": 20414
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -127,11 +132,12 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T15:05:48Z",
+                "last_commit": "2026-08-28T23:10:10Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16572
-              }
+                "stars": 16576
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -153,7 +159,8 @@
                 "owner": "TriumphLLC",
                 "repo": "Blend4Web",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         }
@@ -176,7 +183,8 @@
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
             "stars": 4089
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -191,7 +199,8 @@
             "owner": "quentinplessis",
             "repo": "ssdo_webgl",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "group",
@@ -207,11 +216,12 @@
                 "archived": false,
                 "id": 108262622,
                 "language": "C++",
-                "last_commit": "2026-08-27T19:27:35Z",
+                "last_commit": "2026-08-28T20:42:58Z",
                 "owner": "inviwo",
                 "repo": "inviwo",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -233,7 +243,8 @@
                 "owner": "hoverinc",
                 "repo": "ray-tracing-renderer",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -255,7 +266,8 @@
                 "owner": "Xerxes1138",
                 "repo": "StochasticScreenSpaceReflection",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         },
@@ -277,7 +289,8 @@
                 "owner": "bobcao3",
                 "repo": "Wisdom-Shaders",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T23:10:48.207Z"
             }
           ]
         }
@@ -299,8 +312,9 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15245
-          }
+            "stars": 15253
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -315,7 +329,8 @@
             "owner": "candycat1992",
             "repo": "Unity_Shaders_Book",
             "stars": 6099
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -329,8 +344,9 @@
             "last_commit": "2021-10-14T15:26:08Z",
             "owner": "QianMo",
             "repo": "Awesome-Unity-Shader",
-            "stars": 4332
-          }
+            "stars": 4333
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -345,7 +361,8 @@
             "owner": "przemyslawzaworski",
             "repo": "Unity3D-CG-programming",
             "stars": 1974
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -360,7 +377,8 @@
             "owner": "libretro",
             "repo": "common-shaders",
             "stars": 1162
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -375,7 +393,8 @@
             "owner": "ericjang",
             "repo": "awesome-graphics",
             "stars": 1117
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         },
         {
           "node_type": "item",
@@ -390,14 +409,15 @@
             "owner": "sambler",
             "repo": "osl-shaders",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T23:10:48.207Z"
         }
       ],
       "title": "Other Shader collections and related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:02:24.583Z",
+    "last_updated": "2026-08-28T23:10:48.207Z",
     "original_repository_info": {
       "archived": false,
       "id": 335737946,
@@ -405,7 +425,7 @@
       "last_commit": "2026-07-14T22:16:03Z",
       "owner": "repalash",
       "repo": "Open-Shaders",
-      "stars": 163
+      "stars": 164
     },
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
     "enhanced_repository": "enhansome/enhansome-Open-Shaders",
