@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unity Graphics - Including Scriptable Render Pipeline",
+                "homepage": null,
                 "id": 252826419,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T13:54:33Z",
+                "open_issues": 90,
                 "owner": "Unity-Technologies",
                 "repo": "Graphics",
-                "stars": 2983
+                "stars": 2983,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -38,12 +43,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+                "homepage": "https://godotengine.org",
                 "id": 15634981,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:21:06Z",
+                "open_issues": 18785,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 116301
+                "stars": 116319,
+                "topics": [
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "godot",
+                  "godotengine",
+                  "multi-platform",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -61,12 +79,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript 3D Library.",
+                "homepage": "https://threejs.org/",
                 "id": 576201,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:10:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:55:40Z",
+                "open_issues": 380,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 114897
+                "stars": 114904,
+                "topics": [
+                  "3d",
+                  "augmented-reality",
+                  "canvas",
+                  "html5",
+                  "javascript",
+                  "svg",
+                  "virtual-reality",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -84,12 +120,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+                "homepage": "http://www.babylonjs.com",
                 "id": 11007313,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:52:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:51:16Z",
+                "open_issues": 20,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 25995
+                "stars": 25994,
+                "topics": [
+                  "3d",
+                  "babylon",
+                  "game-development",
+                  "game-engine",
+                  "game-engine-3d",
+                  "typescript",
+                  "webaudio",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webvr",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -107,12 +161,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+                "homepage": "https://google.github.io/filament/",
                 "id": 143455116,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:58:34Z",
+                "open_issues": 212,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20414
+                "stars": 20415,
+                "topics": [
+                  "3d-graphics",
+                  "android",
+                  "gltf",
+                  "gltf-viewer",
+                  "graphics",
+                  "metal",
+                  "opengl",
+                  "opengl-es",
+                  "pbr",
+                  "real-time",
+                  "vulkan",
+                  "wasm",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -130,12 +203,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+                "homepage": "https://playcanvas.com",
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:10:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:18:45Z",
+                "open_issues": 531,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16576
+                "stars": 16577,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "gaussian-splatting",
+                  "gltf",
+                  "hacktoberfest",
+                  "javascript",
+                  "nodejs",
+                  "playcanvas",
+                  "typescript",
+                  "virtual-reality",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -153,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blend4Web is a tool for interactive 3D visualization on the Internet",
+                "homepage": "https://www.blend4web.com",
                 "id": 18142614,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-12-20T17:56:11Z",
+                "open_issues": 9,
                 "owner": "TriumphLLC",
                 "repo": "Blend4Web",
-                "stars": 813
+                "stars": 813,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -177,12 +278,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.",
+            "homepage": null,
             "id": 267188426,
             "language": "GDShader",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-16T07:48:40Z",
+            "open_issues": 6,
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
-            "stars": 4089
+            "stars": 4089,
+            "topics": [
+              "game",
+              "game-assets",
+              "godot-engine",
+              "godot-shader",
+              "godot-shaders",
+              "shader-secrets",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -193,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screen space effects in WebGL",
+            "homepage": null,
             "id": 10125627,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2013-06-28T08:43:09Z",
+            "open_issues": 1,
             "owner": "quentinplessis",
             "repo": "ssdo_webgl",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -214,12 +333,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inviwo - Interactive Visualization Workshop",
+                "homepage": null,
                 "id": 108262622,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-28T20:42:58Z",
+                "open_issues": 66,
                 "owner": "inviwo",
                 "repo": "inviwo",
-                "stars": 526
+                "stars": 526,
+                "topics": [
+                  "flow-visualization",
+                  "glsl",
+                  "inviwo",
+                  "opencl",
+                  "opengl",
+                  "scientific-visualization",
+                  "visualization",
+                  "volume-visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -237,12 +370,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[UNMAINTAINED] Real-time path tracing on the web with three.js",
+                "homepage": "https://hoverinc.github.io/ray-tracing-renderer/",
                 "id": 202437582,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-25T08:29:25Z",
+                "open_issues": 62,
                 "owner": "hoverinc",
                 "repo": "ray-tracing-renderer",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "bvh",
+                  "denoising",
+                  "global-illumination",
+                  "path-tracing",
+                  "ray-tracing",
+                  "real-time",
+                  "threejs",
+                  "webgl",
+                  "webgl2"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -260,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 61984566,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-01-17T21:06:48Z",
+                "open_issues": 0,
                 "owner": "Xerxes1138",
                 "repo": "StochasticScreenSpaceReflection",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -283,12 +436,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Minecraft shaderspack. Offers high performance with high quality at the same time.",
+                "homepage": null,
                 "id": 62554422,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T10:08:43Z",
+                "open_issues": 0,
                 "owner": "bobcao3",
                 "repo": "Wisdom-Shaders",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "glsl",
+                  "minecraft",
+                  "minecraft-shaderspack",
+                  "shaders"
+                ]
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
             }
@@ -307,12 +470,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+            "homepage": null,
             "id": 72586805,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-21T15:01:30Z",
+            "open_issues": 8,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15253
+            "stars": 15255,
+            "topics": [
+              "3d-graphics",
+              "art",
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "creative-coding",
+              "data-visualization",
+              "design",
+              "generative-art",
+              "graphics-programming",
+              "information-visualization",
+              "interaction-design",
+              "list",
+              "programming-graphics",
+              "resources",
+              "shaders",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -323,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: 书籍《Unity Shader入门精要》源代码",
+            "homepage": null,
             "id": 41211852,
             "language": "ShaderLab",
+            "license": null,
             "last_commit": "2023-02-23T08:30:23Z",
+            "open_issues": 90,
             "owner": "candycat1992",
             "repo": "Unity_Shaders_Book",
-            "stars": 6099
+            "stars": 6099,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -339,12 +530,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders ",
+            "homepage": null,
             "id": 33025718,
             "language": "ShaderLab",
+            "license": null,
             "last_commit": "2021-10-14T15:26:08Z",
+            "open_issues": 1,
             "owner": "QianMo",
             "repo": "Awesome-Unity-Shader",
-            "stars": 4333
+            "stars": 4333,
+            "topics": [
+              "awesome",
+              "graphics-programming",
+              "posteffect",
+              "shader",
+              "shaderlab",
+              "unity",
+              "unity-shader",
+              "unity3d-shader"
+            ]
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -355,12 +560,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various shaders. ",
+            "homepage": null,
             "id": 75328849,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-06T19:31:25Z",
+            "open_issues": 0,
             "owner": "przemyslawzaworski",
             "repo": "Unity3D-CG-programming",
-            "stars": 1974
+            "stars": 1974,
+            "topics": [
+              "gpu",
+              "hlsl",
+              "shader",
+              "shaders",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -371,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of commonly used Cg shaders. These shaders are usable by either HLSL and/or Cg runtime compilers. The cg2glsl script will translate most of these into GLSL shaders.",
+            "homepage": "http://www.libretro.com",
             "id": 3286864,
             "language": "C",
+            "license": null,
             "last_commit": "2026-04-11T16:11:08Z",
+            "open_issues": 38,
             "owner": "libretro",
             "repo": "common-shaders",
-            "stars": 1162
+            "stars": 1162,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -387,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of computer graphics tutorials and resources",
+            "homepage": null,
             "id": 48450988,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-02-29T22:27:34Z",
+            "open_issues": 3,
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1117
+            "stars": 1117,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         },
@@ -403,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of osl shaders",
+            "homepage": null,
             "id": 7077771,
             "language": "C",
+            "license": null,
             "last_commit": "2017-12-24T17:29:19Z",
+            "open_issues": 0,
             "owner": "sambler",
             "repo": "osl-shaders",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
         }
@@ -417,15 +648,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:10:48.207Z",
+    "last_updated": "2026-08-29T04:56:54.447Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.",
+      "homepage": null,
       "id": 335737946,
       "language": "HLSL",
+      "license": null,
       "last_commit": "2026-07-14T22:16:03Z",
+      "open_issues": 1,
       "owner": "repalash",
       "repo": "Open-Shaders",
-      "stars": 164
+      "stars": 164,
+      "topics": [
+        "awesome-list",
+        "computer-graphics",
+        "game-development",
+        "glsl",
+        "hlsl",
+        "opengl",
+        "shaders",
+        "snippets-collection",
+        "unity3d",
+        "unreal",
+        "vfx",
+        "webgl"
+      ]
     },
     "original_repository_sha": "d174edaecc7494cfcf6b279d8d76812987cb8ff3",
     "enhanced_repository": "enhansome/enhansome-Open-Shaders",
