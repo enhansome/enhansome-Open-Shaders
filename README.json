@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Graphics Pipelines - Updated: Jan 2021 - https://github.com/Unity-Technologies/Graphics",
-              "description": null,
+              "description": "Unity-Technologies/Graphics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -39,7 +39,7 @@
             {
               "node_type": "item",
               "title": "godotengine/godot",
-              "description": null,
+              "description": "godotengine/godot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,10 +49,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:11:24Z",
-                "open_issues": 18886,
+                "open_issues": 18884,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 118070,
+                "stars": 118081,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "mrdoob/three.js",
-              "description": null,
+              "description": "mrdoob/three.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -85,10 +85,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:51:45Z",
-                "open_issues": 379,
+                "open_issues": 382,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116170,
+                "stars": 116179,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -116,7 +116,7 @@
             {
               "node_type": "item",
               "title": "BabylonJS/Babylon.js",
-              "description": null,
+              "description": "BabylonJS/Babylon.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -126,7 +126,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T07:34:01Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
                 "stars": 26126,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "google/filament",
-              "description": null,
+              "description": "google/filament",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -166,11 +166,11 @@
                 "id": 143455116,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:25:30Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-02T23:13:10Z",
+                "open_issues": 219,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20551,
+                "stars": 20553,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -199,7 +199,7 @@
             {
               "node_type": "item",
               "title": "playcanvas/engine",
-              "description": null,
+              "description": "playcanvas/engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,11 +208,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:25:45Z",
+                "last_commit": "2026-10-03T02:23:24Z",
                 "open_issues": 455,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16969,
+                "stars": 16974,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "TriumphLLC/Blend4Web",
-              "description": null,
+              "description": "TriumphLLC/Blend4Web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -303,7 +303,7 @@
         {
           "node_type": "item",
           "title": "ssdo_webgl",
-          "description": "https://github.com/quentinplessis/ssdo_webgl",
+          "description": "quentinplessis/ssdo_webgl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "inviwo/inviwo",
-              "description": null,
+              "description": "inviwo/inviwo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,7 +338,7 @@
                 "id": 108262622,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T16:53:17Z",
+                "last_commit": "2026-10-03T01:47:26Z",
                 "open_issues": 65,
                 "owner": "inviwo",
                 "repo": "inviwo",
@@ -366,7 +366,7 @@
             {
               "node_type": "item",
               "title": "hoverinc/ray-tracing-renderer",
-              "description": null,
+              "description": "hoverinc/ray-tracing-renderer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Xerxes1138/StochasticScreenSpaceReflection",
-              "description": null,
+              "description": "Xerxes1138/StochasticScreenSpaceReflection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,7 +432,7 @@
             {
               "node_type": "item",
               "title": "bobcao3/Wisdom-Shaders",
-              "description": null,
+              "description": "bobcao3/Wisdom-Shaders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
         {
           "node_type": "item",
           "title": "awesome-creative-coding: https://github.com/terkelg/awesome-creative-coding",
-          "description": null,
+          "description": "terkelg/awesome-creative-coding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -479,7 +479,7 @@
             "open_issues": 14,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15387,
+            "stars": 15390,
             "topics": [
               "3d-graphics",
               "art",
@@ -505,7 +505,7 @@
         {
           "node_type": "item",
           "title": "Unity Shaders book: https://github.com/candycat1992/Unity_Shaders_Book/tree/master/Assets/Shaders",
-          "description": null,
+          "description": "candycat1992/Unity_Shaders_Book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -526,7 +526,7 @@
         {
           "node_type": "item",
           "title": "Unity shaders: https://github.com/QianMo/Awesome-Unity-Shader",
-          "description": null,
+          "description": "QianMo/Awesome-Unity-Shader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "Unity3D-CG-programming: https://github.com/przemyslawzaworski/Unity3D-CG-programming",
-          "description": null,
+          "description": "przemyslawzaworski/Unity3D-CG-programming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "Package of pixel shaders intended for old school emulators: https://github.com/libretro/common-shaders",
-          "description": null,
+          "description": "libretro/common-shaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,7 +604,7 @@
         {
           "node_type": "item",
           "title": "Curated list of computer graphics tutorials and resources: https://github.com/ericjang/awesome-graphics",
-          "description": null,
+          "description": "ericjang/awesome-graphics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "Blender materials: https://github.com/sambler/osl-shaders",
-          "description": null,
+          "description": "sambler/osl-shaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:39:10.801Z",
+    "last_updated": "2026-10-03T04:31:20.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.",
