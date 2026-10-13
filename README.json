@@ -24,7 +24,7 @@
                 "open_issues": 90,
                 "owner": "Unity-Technologies",
                 "repo": "Graphics",
-                "stars": 3012,
+                "stars": 3013,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:10:48.207Z"
@@ -48,11 +48,11 @@
                 "id": 15634981,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T14:34:01Z",
-                "open_issues": 18870,
+                "last_commit": "2026-10-13T16:51:40Z",
+                "open_issues": 18862,
                 "owner": "godotengine",
                 "repo": "godot",
-                "stars": 118332,
+                "stars": 118447,
                 "topics": [
                   "game-development",
                   "game-engine",
@@ -84,11 +84,11 @@
                 "id": 576201,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:43:53Z",
-                "open_issues": 403,
+                "last_commit": "2026-10-13T17:01:23Z",
+                "open_issues": 398,
                 "owner": "mrdoob",
                 "repo": "three.js",
-                "stars": 116315,
+                "stars": 116346,
                 "topics": [
                   "3d",
                   "augmented-reality",
@@ -126,10 +126,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T20:39:40Z",
-                "open_issues": 17,
+                "open_issues": 15,
                 "owner": "BabylonJS",
                 "repo": "Babylon.js",
-                "stars": 26159,
+                "stars": 26163,
                 "topics": [
                   "3d",
                   "babylon",
@@ -166,11 +166,11 @@
                 "id": 143455116,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T11:19:00Z",
-                "open_issues": 219,
+                "last_commit": "2026-10-13T18:38:39Z",
+                "open_issues": 221,
                 "owner": "google",
                 "repo": "filament",
-                "stars": 20592,
+                "stars": 20601,
                 "topics": [
                   "3d-graphics",
                   "android",
@@ -208,11 +208,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:37:16Z",
-                "open_issues": 460,
+                "last_commit": "2026-10-13T16:13:32Z",
+                "open_issues": 463,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 17014,
+                "stars": 17027,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -287,7 +287,7 @@
             "open_issues": 6,
             "owner": "gdquest-demos",
             "repo": "godot-shaders",
-            "stars": 4152,
+            "stars": 4153,
             "topics": [
               "game",
               "game-assets",
@@ -338,7 +338,7 @@
                 "id": 108262622,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T19:30:35Z",
+                "last_commit": "2026-10-13T15:57:59Z",
                 "open_issues": 67,
                 "owner": "inviwo",
                 "repo": "inviwo",
@@ -479,7 +479,7 @@
             "open_issues": 15,
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15433,
+            "stars": 15436,
             "topics": [
               "3d-graphics",
               "art",
@@ -518,7 +518,7 @@
             "open_issues": 90,
             "owner": "candycat1992",
             "repo": "Unity_Shaders_Book",
-            "stars": 6121,
+            "stars": 6122,
             "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
@@ -617,7 +617,7 @@
             "open_issues": 3,
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1119,
+            "stars": 1120,
             "topics": []
           },
           "first_seen": "2026-08-28T23:10:48.207Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:50:22.363Z",
+    "last_updated": "2026-10-13T19:56:14.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of many open source shaders(GLSL, HLSL, CG) in popular open source game development and rendering engines and public repositories.",
