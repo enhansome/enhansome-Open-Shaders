@@ -6,29 +6,29 @@ Aim is to have a common index of shader snippets and algorithms for educational 
 ### Engines
 
 * [Unity3D](Engines/Unity)
-  * Graphics Pipelines - Updated: Jan 2021 - <https://github.com/Unity-Technologies/Graphics> ⭐ 3,022 | 🐛 89 | 🌐 C# | 📅 2026-10-30
+  * Graphics Pipelines - Updated: Jan 2021 - <https://github.com/Unity-Technologies/Graphics> ⭐ 3,023 | 🐛 89 | 🌐 C# | 📅 2026-11-02
   * Built-in shaders - version: 2020.2.2f1 - <https://unity3d.com/get-unity/download/archive>
 * [Unreal Engine](Engines/Unreal)
   * Updated: Jan 2021
   * <https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Shaders>
 * [Godot](Engines/godot)
-  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 119,389 | 🐛 18,941 | 🌐 C++ | 📅 2026-10-30
+  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 119,466 | 🐛 18,945 | 🌐 C++ | 📅 2026-11-02
   * Updated: Jan 2021
 * [G3D](Engines/G3D)
   * g3d, updated: 2015
   * Deep G-buffer, updated: 2014
   * <https://sourceforge.net/p/g3d/code/HEAD/tree/>
 * [three.js](Engines/threejs)
-  * <https://github.com/mrdoob/three.js> ⭐ 117,358 | 🐛 391 | 🌐 JavaScript | 📅 2026-11-01
+  * <https://github.com/mrdoob/three.js> ⭐ 117,444 | 🐛 383 | 🌐 JavaScript | 📅 2026-11-02
   * Updated: Jan 2021
 * [Babylon.js](Engines/babylonjs)
-  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 26,261 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-31
+  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 26,281 | 🐛 41 | 🌐 TypeScript | 📅 2026-11-02
   * Updated: Feb 2021
 * [filament](Engines/babylonjs) by google
-  * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,681 | 🐛 206 | 🌐 C++ | 📅 2026-11-01
+  * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,683 | 🐛 204 | 🌐 C++ | 📅 2026-11-02
   * Updated: Feb 2021
 * [playcanvas](Engines/playcanvas)
-  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 17,172 | 🐛 475 | 🌐 JavaScript | 📅 2026-11-01
+  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 17,182 | 🐛 472 | 🌐 JavaScript | 📅 2026-11-02
   * Updated: May 2021
 * [Blend4Web](Engines/Blend4Web)
   * <https://github.com/TriumphLLC/Blend4Web/tree/master/shaders> ⭐ 814 | 🐛 9 | 🌐 HTML | 📅 2022-12-20
@@ -36,10 +36,10 @@ Aim is to have a common index of shader snippets and algorithms for educational 
 
 ### Others:
 
-* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,191 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16
+* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,197 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16
 * [ssdo\_webgl](Others/ssdo_webgl): <https://github.com/quentinplessis/ssdo_webgl> ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2013-06-28
 * [inviwo](Others/inviwo):
-  * <https://github.com/inviwo/inviwo/tree/master/modules> ⭐ 531 | 🐛 65 | 🌐 C++ | 📅 2026-11-01
+  * <https://github.com/inviwo/inviwo/tree/master/modules> ⭐ 531 | 🐛 65 | 🌐 C++ | 📅 2026-11-02
   * Volume rendering framework
   * Updated: Aug 2020
 * [ray tracing renderer](Others/ray_tracing_renderer_three):
@@ -71,13 +71,13 @@ Sources at the top of the files.
 
 ### Other Shader collections and related
 
-* awesome-creative-coding: <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,529 | 🐛 29 | 🌐 HTML | 📅 2026-07-21
-* Unity Shaders book: <https://github.com/candycat1992/Unity_Shaders_Book/tree/master/Assets/Shaders> ⭐ 6,124 | 🐛 90 | 🌐 ShaderLab | 📅 2023-02-23
+* awesome-creative-coding: <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,536 | 🐛 29 | 🌐 HTML | 📅 2026-07-21
+* Unity Shaders book: <https://github.com/candycat1992/Unity_Shaders_Book/tree/master/Assets/Shaders> ⭐ 6,125 | 🐛 90 | 🌐 ShaderLab | 📅 2023-02-23
 * Unity shaders: <https://github.com/QianMo/Awesome-Unity-Shader> ⭐ 4,361 | 🐛 1 | 🌐 ShaderLab | 📅 2021-10-14
 * Unity3D-CG-programming: <https://github.com/przemyslawzaworski/Unity3D-CG-programming> ⭐ 1,989 | 🐛 0 | 📅 2026-10-26
 * Package of pixel shaders intended for old school emulators: <https://github.com/libretro/common-shaders> ⭐ 1,177 | 🐛 38 | 🌐 C | 📅 2026-04-11
 * Curated list of computer graphics tutorials and resources: <https://github.com/ericjang/awesome-graphics> ⭐ 1,123 | 🐛 3 | 📅 2020-02-29
-* Blender materials: <https://github.com/sambler/osl-shaders> ⭐ 386 | 🐛 0 | 🌐 C | 📅 2017-12-24
+* Blender materials: <https://github.com/sambler/osl-shaders> ⭐ 388 | 🐛 0 | 🌐 C | 📅 2017-12-24
 * <https://shadertoy.com>
 
 ### Notes:
@@ -88,4 +88,4 @@ Sources at the top of the files.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
