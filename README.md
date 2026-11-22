@@ -12,23 +12,23 @@ Aim is to have a common index of shader snippets and algorithms for educational 
   * Updated: Jan 2021
   * <https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Shaders>
 * [Godot](Engines/godot)
-  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 120,537 | 🐛 19,100 | 🌐 C++ | 📅 2026-11-20
+  * <https://github.com/godotengine/godot/tree/master/servers/rendering/renderer_rd/shaders> ⭐ 120,588 | 🐛 19,116 | 🌐 C++ | 📅 2026-11-20
   * Updated: Jan 2021
 * [G3D](Engines/G3D)
   * g3d, updated: 2015
   * Deep G-buffer, updated: 2014
   * <https://sourceforge.net/p/g3d/code/HEAD/tree/>
 * [three.js](Engines/threejs)
-  * <https://github.com/mrdoob/three.js> ⭐ 119,087 | 🐛 408 | 🌐 JavaScript | 📅 2026-11-21
+  * <https://github.com/mrdoob/three.js> ⭐ 119,158 | 🐛 411 | 🌐 JavaScript | 📅 2026-11-22
   * Updated: Jan 2021
 * [Babylon.js](Engines/babylonjs)
-  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 26,418 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-21
+  * <https://github.com/BabylonJS/Babylon.js/tree/master/src/Shaders> ⭐ 26,426 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-21
   * Updated: Feb 2021
 * [filament](Engines/babylonjs) by google
-  * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,783 | 🐛 196 | 🌐 C++ | 📅 2026-11-21
+  * <https://github.com/google/filament/tree/main/shaders/src> ⭐ 20,787 | 🐛 197 | 🌐 C++ | 📅 2026-11-22
   * Updated: Feb 2021
 * [playcanvas](Engines/playcanvas)
-  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 17,341 | 🐛 505 | 🌐 JavaScript | 📅 2026-11-20
+  * <https://github.com/playcanvas/engine/tree/v1.41.2/src/graphics/program-lib/chunks> ⭐ 17,346 | 🐛 507 | 🌐 JavaScript | 📅 2026-11-22
   * Updated: May 2021
 * [Blend4Web](Engines/Blend4Web)
   * <https://github.com/TriumphLLC/Blend4Web/tree/master/shaders> ⭐ 814 | 🐛 9 | 🌐 HTML | 📅 2022-12-20
@@ -36,10 +36,10 @@ Aim is to have a common index of shader snippets and algorithms for educational 
 
 ### Others:
 
-* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,224 | 🐛 6 | 🌐 GDShader | 📅 2026-11-19
+* [GDQuest godot shaders](Others/GDQuest_godot): (Feb 2021) <https://github.com/GDQuest/godot-shaders/tree/master/godot/Shaders> ⭐ 4,233 | 🐛 6 | 🌐 GDShader | 📅 2026-11-19
 * [ssdo\_webgl](Others/ssdo_webgl): <https://github.com/quentinplessis/ssdo_webgl> ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2013-06-28
 * [inviwo](Others/inviwo):
-  * <https://github.com/inviwo/inviwo/tree/master/modules> ⭐ 533 | 🐛 66 | 🌐 C++ | 📅 2026-11-21
+  * <https://github.com/inviwo/inviwo/tree/master/modules> ⭐ 533 | 🐛 65 | 🌐 C++ | 📅 2026-11-22
   * Volume rendering framework
   * Updated: Aug 2020
 * [ray tracing renderer](Others/ray_tracing_renderer_three):
@@ -50,7 +50,7 @@ Aim is to have a common index of shader snippets and algorithms for educational 
   * <https://github.com/Xerxes1138/StochasticScreenSpaceReflection/tree/master/Assets/PostProcessing/Resources/Shaders> ⭐ 319 | 🐛 0 | 🌐 C# | 📅 2023-01-17
   * for unity
 * [wisdom shaders](Others/wisdom):
-  * <https://github.com/bobcao3/Wisdom-Shaders/tree/master/shaders> ⭐ 196 | 🐛 0 | 🌐 C | 📅 2026-08-11
+  * <https://github.com/bobcao3/Wisdom-Shaders/tree/master/shaders> ⭐ 197 | 🐛 0 | 🌐 C | 📅 2026-08-11
   * Minecraft shaders
   * <https://bc3.moe/wisdom-shaders/>
 
@@ -71,7 +71,7 @@ Sources at the top of the files.
 
 ### Other Shader collections and related
 
-* awesome-creative-coding: <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,640 | 🐛 40 | 🌐 HTML | 📅 2026-07-21
+* awesome-creative-coding: <https://github.com/terkelg/awesome-creative-coding> ⭐ 15,647 | 🐛 39 | 🌐 HTML | 📅 2026-07-21
 * Unity Shaders book: <https://github.com/candycat1992/Unity_Shaders_Book/tree/master/Assets/Shaders> ⭐ 6,133 | 🐛 90 | 🌐 ShaderLab | 📅 2023-02-23
 * Unity shaders: <https://github.com/QianMo/Awesome-Unity-Shader> ⭐ 4,362 | 🐛 1 | 🌐 ShaderLab | 📅 2021-10-14
 * Unity3D-CG-programming: <https://github.com/przemyslawzaworski/Unity3D-CG-programming> ⭐ 1,997 | 🐛 0 | 📅 2026-10-26
@@ -88,4 +88,4 @@ Sources at the top of the files.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
